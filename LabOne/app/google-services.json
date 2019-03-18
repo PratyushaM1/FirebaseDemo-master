@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762340971061",
+    "firebase_url": "https://labone-2b8c8.firebaseio.com",
+    "project_id": "labone-2b8c8",
+    "storage_bucket": "labone-2b8c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762340971061:android:aa3db22651e0ba73",
+        "android_client_info": {
+          "package_name": "com.example.acer.labone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762340971061-n4liubnt2rd3d0k6vjvhncqumu79klc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.labone",
+            "certificate_hash": "e03b5b540f6df0a274529d67f41749c9442be738"
+          }
+        },
+        {
+          "client_id": "762340971061-g1ik5v5a9tqt7poovpk2952anfekdq10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_YKy4MH8kcmY9mnyxeGEwoXoU7HRpYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762340971061-g1ik5v5a9tqt7poovpk2952anfekdq10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
